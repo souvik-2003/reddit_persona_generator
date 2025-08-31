@@ -2,8 +2,6 @@
 
 This project is a Python script designed to generate a detailed user persona from a public Reddit profile. It scrapes a user's recent comments and posts, then leverages a Large Language Model (LLM) to analyze the content and construct a structured persona, complete with citations for each inferred characteristic.
 
-This was developed as a submission for the AI/LLM Engineer Intern assignment at **BeyondChats**.
-
 ---
 
 ## ✨ Features
@@ -61,8 +59,8 @@ Follow these steps to set up the project on your local machine.
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/SudoAnxu/Reddit_Persona_Summarizer.git
-cd Reddit_Persona_Summarizer
+git clone https://github.com/souvik-2003/reddit_persona_generator.git
+cd reddit_persona_generator
 ```
 
 ### 3. Set Up a Virtual Environment
